@@ -31,7 +31,7 @@
                    DATA CAMP <br>
                    May 3, 2023 </center></p>
 <p align ="left">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2553CF90C4FC29562CB2FEA954252B280978CC63BB06C24FBA4D30510CF75B04"><br>Oracle Cloud Data Management Foundations Associate</a> <br>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2553CF90C4FC29562CB2FEA954252B280978CC63BB06C24FBA4D30510CF75B04"><br>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> <br>
                    Oracle University <br>
                    November 10, 2023 </center><br></p>
                    November 10, 2023 </center></p>
